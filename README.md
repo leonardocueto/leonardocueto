@@ -17,7 +17,7 @@ to combine my enthusiasm and web
 design skills to deliver captivating user
 experiences.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1W78f-td45vouv9vJptQaVBXjkHuKlhgQ/view?usp=sharing).
 <!--  - :boom: You can visit [MY WEBSITE](). -->
 <br>
 
