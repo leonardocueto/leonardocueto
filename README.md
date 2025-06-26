@@ -17,7 +17,7 @@ to combine my enthusiasm and web
 design skills to deliver captivating user
 experiences.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1kbhwr_8t33yka7UuEYWXNfpffQZJmNkK/view?usp=sharing).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/17tAOhqhma6n6VOToixdvA7hw7TyehPaG/view?usp=sharing).
 - :boom: You can visit [MY WEBSITE](https://leonardocueto.click/).
 <br>
 
